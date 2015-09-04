@@ -1,25 +1,15 @@
 ###############################################################################
 #
-# Created by LordFokas
-# Criado por LordFokas
+# Translated by Wesley Alves
+# Traduzido por Wesley Alves
 #
-# Some translations might be sightly inconsistent
-# Algumas traduções podem estar ligeiramente inconsistentes
-#
-#
-# THIS FILE IS A STRAIGHT OUT COPY OF THE PT_PT FILE AND WAS ONLY CREATED
-# BECAUSE IT'S A BETTER ALTERNATIVE FOR BRAZILIZAN USERS THAN USING THE
-# STANDARD ENGLISH VERSION. SHOULD BE MODIFIED AND ENHANCED ASAP.
-#
-# ESTE FICHEIRO É APENAS UMA CÓPIA DIRECTA DO FICHEIRO PT_PT, E APENAS FOI
-# CRIADO PORQUE É UMA ALTERNATIVA MELHOR PARA UTILIZADORES BRASILEIROS QUE
-# UTILIZAR A VERSÃO INGLESA. DEVEM MODIFICAR E MELHORAR ASSIM QUE POSSÍVEL
-#
+# Some language translations may not be 100% accurate.
+# Algumas traduções podem não estar 100% corretas.
 ###############################################################################
 
 tabula.name=Tabula
 
-window.controls.title=Controlos
+window.controls.title=Controles
 window.controls.cubeName=Nome do Cubo Selecionado
 window.controls.dimensions=Dimensões
 window.controls.position=Posição
@@ -35,7 +25,7 @@ window.controls.txMirrorFull=Espelhar Textura
 window.newProject.title=Novo Projeto
 window.newProject.projIdent=Nome do Projeto
 window.newProject.animName=Nome do Autor
-window.newProject.txDimensions=Altura e largura da textura
+window.newProject.txDimensions=Altura e Largura da Textura
 window.newProject.projectScale=Escala do Projeto
 
 window.editProject.title=Editar Projeto
@@ -43,17 +33,18 @@ window.editProject.title=Editar Projeto
 window.modelTree.title=Árvore do Modelo
 window.modelTree.newCube=Novo Cubo
 window.modelTree.newGroup=Novo Grupo
-window.modelTree.delete=Eliminar
+window.modelTree.delete=Excluir
+window.modelTree.editMeta=Editar Metadados
 
 window.texture.title=Textura
 window.texture.loadTexture=Carregar Textura
 window.texture.clearTexture=Limpar Textura
 window.texture.listenTexture=Seguir
-window.texture.listenTextureFull=Seguir alterações da textura (se a textura for tua)
+window.texture.listenTextureFull=Seguir alterações da textura (caso seja sua)
 window.texture.remoteTexture=Textura Remota
 window.texture.noTexture=Sem Textura
 
-window.import.title=Importar Modelo para o Projecto Atual
+window.import.title=Importar Modelo para o Projeto Atual
 window.import.texture=Textura
 window.import.textureFull=Importar também a textura (se disponível)?
 
@@ -63,43 +54,43 @@ window.importMC.newProjectFull=Importar o modelo para um novo projeto?
 
 window.loadTexture.title=Carregar Textura
 window.loadTexture.updateTextureDimensions=Atualizar?
-window.loadTexture.updateTextureDimensionsFull=Actualizar as dimensões da textura no projeto?
+window.loadTexture.updateTextureDimensionsFull=Atualizar as dimensões da textura no projeto?
 
 window.chat.title=Chat
-window.chat.textbox=Carrega no Enter para enviar
+window.chat.textbox=Clique ENTER para enviar
 
-window.notSaved.title=Projeto não gravado!
-window.notSaved.unsaved=O Projeto não está gravado!
-window.notSaved.save=Gostarias de gravar antes de fechar?
+window.notSaved.title=Projeto não salvo!
+window.notSaved.unsaved=O Projeto não está salvo!
+window.notSaved.save=Gostaria de salvar antes de fechar?
 
 window.open.title=Abrir Projeto
-window.open.opening=A Abrir...
-window.open.failed=Ficheiro aberto sem sucesso.
+window.open.opening=Abrindo...
+window.open.failed=Falha ao abrir o arquivo.
 
-window.about.title=Acerca de
+window.about.title=Sobre
 window.about.line0=Versão do Mod: 
 window.about.line1=Desenvolvedor: 
 window.about.line2=Texturas: 
 window.about.line3=Contribuições: 
 window.about.line4=Testadores: 
-window.about.line5=Localização Atual: LordFokas
+window.about.line5=Localização Atual: iChun
 window.about.line6=Função e Interface Gráfica baseadas no Techne por ZeuX e r4wk
-window.about.os1=Se tiveres problemas ou sugestões vai a esta ligação
-window.about.os2=O projecto é opne-source e pode ser encontrado aqui:
+window.about.os1=Caso possua problemas ou sugestões, vá para o link seguinte
+window.about.os2=O projeto é open-source, e pode ser encontrado em:
 
 window.animate.title=Animação
 window.animate.newAnim=Nova Animação
 window.animate.editAnim=Editar Animação
-window.animate.delAnim=Eliminar Animação
+window.animate.delAnim=Excluir Animação
 window.animate.playAnim=Reproduzir Animação
 window.animate.stopAnim=Parar Animação
 window.animate.newComponent=Novo Componente
 window.animate.editComponent=Editar Componente
-window.animate.delComponent=Eliminar Componente
-window.animate.splitComponent=Dividir Componente. Isto reinicia a progressão do componente.
+window.animate.delComponent=Excluir Componente
+window.animate.splitComponent=Dividir Componente. Isso redefine a Progressão do Componente.
 window.animate.editProgComponent=Editar Progressão do Componente
-window.animate.selectCube=Seleciona um cubo para animar primeiro!
-window.animate.selectAnim=Seleciona uma Animação primeiro!
+window.animate.selectCube=Selecione um cubo para animar primeiro!
+window.animate.selectAnim=Selecione uma Animação primeiro!
 
 window.newAnim.title=Nova Animação
 window.newAnim.animName=Nome da Animação
@@ -112,24 +103,24 @@ window.newAnimComp.length=Duração do Componente (em ticks)
 window.editAnimComp.title=Editar Componente de Animação
 window.editAnimComp.startPos=Tick de Início do Componente
 
-window.editAnimCompProg.title=Editar Progressão de Componente de Animação
+window.editAnimCompProg.title=Editar Progressão de Componentes de Animação
 window.editAnimCompProg.prog=Progressão da Animação
 window.editAnimCompProg.reset=Reiniciar
 window.editAnimCompProg.play=Reproduzir Animação
-window.editAnimCompProg.playDesc=Reproduzir animação enquanto editas a progressão?
+window.editAnimCompProg.playDesc=Reproduzir animação enquanto edita a progressão?
 window.editAnimCompProg.invalid=Curva de progressão inválida!
 window.editAnimCompProg.animInfo=Informação de Keyframes da Animação: 
 
 window.selectTheme.title=Selecionar Tema
 
 window.settings.title=Configurações
-window.settings.renderRotationPoint=Mostrar Ponto de Rotação do Modelo
+window.settings.renderRotationPoint=Ponto de Rotação do Modelo
 
-export.title=Exportar Modelo
-export.failed=Exportação sem Sucesso!
+export.title=Exportar Projeto
+export.failed=Falha ao Exportar!
 export.textureMap.name=Mapa de Texturas
 export.javaClass.title=Exportar como Classe Java
-export.javaClass.package=Package da Classe
+export.javaClass.package=Pacote da Classe
 export.javaClass.name=Classe Java
 export.javaClass.className=Nome da Classe
 export.projTexture.name=Textura do Projeto
@@ -137,29 +128,29 @@ export.projTexture.name=Textura do Projeto
 topdock.new=Novo Projeto
 topdock.edit=Editar Projeto
 topdock.open=Abrir Projeto
-topdock.save=Gravar
-topdock.saveAs=Gravar Como
+topdock.save=Salvar
+topdock.saveAs=Salvar Como
 topdock.import=Importar Projeto
 topdock.importMC=Importar do Minecraft
 topdock.export=Exportar Projeto
 topdock.cut=Cortar
 topdock.copy=Copiar
 topdock.paste=Colar
-topdock.pasteInPlace=Colar no Ponto
+topdock.pasteInPlace=Colar no Local
 topdock.pasteWithoutChildren=Colar sem Filhos
 topdock.undo=Desfazer
 topdock.redo=Refazer
-topdock.chat=Alternar janela de Chat
+topdock.chat=Alternar janela do Chat
 topdock.addEditor=Adicionar Editor
 topdock.removeEditor=Remover Editor
-topdock.themes=Selector de Temas
+topdock.themes=Seletor de Temas
 topdock.settings=Configurações
-topdock.info=Acerca deste Mod
+topdock.info=Sobre este Mod
 topdock.exitTabula=Sair do Tabula
 topdock.wood=Bloco
 topdock.woodFull=Alternar visibilidade do bloco
 
-system.playersInSession=Utilizadores na Sessão
+system.playersInSession=Jogadores na Sessão
 system.editor=Editor
 system.host=Anfitrião
 system.joinedSession=%s entrou na sessão.
@@ -171,38 +162,38 @@ system.addEditor=%1$s adicionou %2$s como editor.
 system.removeEditor=%1$s removeu %2$s como editor.
 system.alreadyEditor=%s já é um editor.
 system.notEditor=%s não é um editor.
-system.cannotRemoveHost=%s é o anfitrião e não pode ser removido como editor.
-system.hosting=És o Anfitrião desta sessão do Tabula.
+system.cannotRemoveHost=%s é o anfitrião, portanto, não pode ser removido como editor.
+system.hosting=Você é o Anfitrião desta sessão do Tabula.
 system.hostingOther=%s é o Anfitrião desta sessão do Tabula.
-system.cannotReachHost=%s (anfitrião) está indisponível. Pode ter crashado ou desconectado. Considera gravar os modelos antes de saíres.
+system.cannotReachHost=%s (anfitrião) está indisponível. Pode ter crashado ou desconectado. Considere salvar os modelos antes de sair.
 system.sessionEnded=%s (anfitrião) terminou a sessão.
 
-tabula.config.cat.multiplayer.name=Multijogador
+tabula.config.cat.multiplayer.name=Multiplayer
 tabula.config.cat.others.name=Outros
 
-tabula.config.cat.multiplayer.comment=Configurações Multijogador para sessões Tabula
-tabula.config.cat.others.comment=Outras configurações que não encaixam em mais lado nenhuma. Provavelmente não queres mexer nisto.
+tabula.config.cat.multiplayer.comment=Configurações Multiplayer para sessões do Tabula
+tabula.config.cat.others.comment=Outras configurações que realmente não se encaixam. Provavelmente não quer mexer nisto.
 
 tabula.config.prop.favTheme.name=Tema Favorito
-tabula.config.prop.renderRotationPoint.name=Mostrar Ponto de Rotação do Modelo
-tabula.config.prop.renderWorkspaceBlock.name=Mostrar Bloco do ambiente de trabalho
-tabula.config.prop.renderGrid.name=Mostrar Grelha
-tabula.config.prop.renderModelControls.name=Mostrar Controlos do Modelo
+tabula.config.prop.renderRotationPoint.name=Ponto de Rotação do Modelo
+tabula.config.prop.renderWorkspaceBlock.name=Bloco da Área de Trabalho
+tabula.config.prop.renderGrid.name=Mostrar Grade
+tabula.config.prop.renderModelControls.name=Controlos do Modelo
 tabula.config.prop.chatSound.name=Sons do Chat
-tabula.config.prop.allowEveryoneToEdit.name=Permitir que toda a gente possa editar
+tabula.config.prop.allowEveryoneToEdit.name=Permitir que qualquer pessoa possa editar
 tabula.config.prop.editors.name=Editores permitidos
 tabula.config.prop.animateImports.name=Animar Modelos Importados
 tabula.config.prop.chatWindow.name=Configurações da Janela de Chat
 
 tabula.config.prop.favTheme.comment=Esquema de Cores Favorito para a Interface do Tabula
-tabula.config.prop.renderRotationPoint.comment=Mostrar o ponto de rotação dos cubóides selecionados
-tabula.config.prop.renderWorkspaceBlock.comment=Mostrar o bloco no ambiente de trabalho
-tabula.config.prop.renderGrid.comment=Mostrar a grelha no ambiente de trabalho
-tabula.config.prop.renderModelControls.comment=Mostrar controlos do modelo
-tabula.config.prop.chatSound.comment=Activar sons do chat?
-tabula.config.prop.allowEveryoneToEdit.comment=Permitir que toda a gente que se junte à tua sessão possa editar o modelo
-tabula.config.prop.editors.comment=Pessoas a quem permites editar o modelo na tua sessão do Tabula.\nNomes de utilizador são separados por uma vírgula e um espaço (", " - sem aspas)
+tabula.config.prop.renderRotationPoint.comment=Mostrar o ponto de rotação dos cubos selecionados
+tabula.config.prop.renderWorkspaceBlock.comment=Mostrar o bloco na área de trabalho
+tabula.config.prop.renderGrid.comment=Mostrar grade na área de trabalho
+tabula.config.prop.renderModelControls.comment=Mostrar controles do modelo
+tabula.config.prop.chatSound.comment=Ativar sons do chat?
+tabula.config.prop.allowEveryoneToEdit.comment=Permitir que qualquer um que se junte à sua sessão possa editar o modelo
+tabula.config.prop.editors.comment=Pessoas a quem permite editar o modelo na sua sessão do Tabula.\nNomes de utilizador são separados por uma vírgula e um espaço (", " - sem aspas)
 tabula.config.prop.animateImports.comment=Tentar animar modelos possivelmente importados para corrigir as suas rotações?
-tabula.config.prop.chatWindow.comment=Não mexas nisto. A sério.
+tabula.config.prop.chatWindow.comment=Não mexa nisso. É SÉRIO!
 
-tile.tabula.block.tabularasa.name=Tabuleta de Cera
+tile.tabula.block.tabularasa.name=Tábua de Cera
